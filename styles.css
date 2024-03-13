@@ -1,10 +1,10 @@
-ody {
+body {
     background-color: #333;
     color: #fff;
     font-family: 'Arial', sans-serif;
   }
   
-  #container {
+  container {
     width: 80%;
     margin: 50px auto;
     padding: 20px;
